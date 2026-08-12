@@ -351,3 +351,5 @@ Desmond Atakora Adams Aboagye           6196824
 Ahenkorah Ebenezer Baffour Kwakye     6203024
 Opoku kelvin
 6229924
+Pekyi Samuel Kwame 
+6232924
