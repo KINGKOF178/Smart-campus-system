@@ -349,3 +349,5 @@ Group members                      index numbers
 Kofi Agyei Tawiah                    6235924
 Desmond Atakora Adams Aboagye           6196824
 Ahenkorah Ebenezer Baffour Kwakye     6203024
+Opoku kelvin
+6229924
